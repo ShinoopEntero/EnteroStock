@@ -17,6 +17,7 @@ namespace Entero_Stock
         /// </summary>sdfsdfd newly updated....
         /// second changes
         /// 4th change
+        /// 7th change
         [STAThread]
         static void Main()
         {
