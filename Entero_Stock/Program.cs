@@ -18,6 +18,7 @@ namespace Entero_Stock
         /// second changes
         /// 4th change
         /// 7th change
+        /// last
         [STAThread]
         static void Main()
         {
