@@ -14,7 +14,7 @@ namespace Entero_Stock
     {
         /// <summary>
         /// The main entry point for the application.
-        /// </summary>
+        /// </summary>sdfsdfd
         [STAThread]
         static void Main()
         {
