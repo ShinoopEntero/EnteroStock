@@ -12,7 +12,7 @@ namespace Entero_Stock
 {
     static class Program
     {
-        /// <summary>
+        /// <summary> new changes
         /// The main entry point for the application.
         /// </summary>sdfsdfd
         [STAThread]
